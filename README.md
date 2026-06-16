@@ -191,7 +191,57 @@ show a simple matrix calculation using html5 animation
 generate a simulation to teach student about bubble sort for data structures and algorithm introduction
 ```
 
-# AI Tools & Skills for Self Learning
+# Games Generation
+
+Use the following prompts in Google Gemini to generate simple games.
+
+```
+Act as a creative programmer. Write a complete, single-file implementation of a classic grid-based Snake game
+Requirements:
+1. The snake moves continuously on a grid and can change directions using the arrow keys (preventing 180-degree immediate self-collision).
+2. Randomly spawn "food" pixels that grow the snake's length and increase the score when eaten.
+3. The game ends if the snake crashes into the screen boundaries or its own tail.
+4. Implement a high-score tracker using local storage so it persists across refreshes.
+5. Use a nostalgic, monochromatic green-screen (Game Boy style) or cyberpunk neon theme.
+```
+
+Here is a pre-gnerated Gemini Canvas app by me.
+
+[Retro Arcade Snake](https://gemini.google.com/share/e66b5b9d9e7c)  
+![](./images/RetroArcadeSnake.png)
+
+---
+
+```
+Act as a game developer. Create a classic 2D space shooter game inspired by Space Invaders
+
+Requirements:
+1. Player controls a spaceship at the bottom (moves left/right, spacebar to shoot).
+2. A grid of alien ships at the top that moves horizontally and shifts downward whenever they hit the screen edge.
+3. Aliens should occasionally fire projectiles downward at the player.
+4. Include 3 destructible defense bunkers between the player and the aliens.
+5. Track the score and player health.
+6. Use a retro arcade aesthetic with a starry background effect (scrolling or blinking pixels).
+```
+
+**More Prompts on Game Generation**
+
+---
+
+```
+Act as a seasoned game designer. Create an infinite side-scrolling runner game, reminiscent of classic 8-bit platformers, contained entirely within one HTML file.
+
+Requirements:
+1. The player controls a pixelated character that runs automatically to the right. Pressing 'Space' or 'Up Arrow' makes the character jump.
+2. Implement basic gravity and jumping physics so the jump feels smooth, not floaty.
+3. Procedurally generate obstacles (like spikes or pits) moving from right to left that the player must avoid.
+4. The score should increase based on distance traveled (survived time).
+5. Design it with a cool retro synthwave aesthetic (dark background, pink/cyan accents).
+
+Deliver the complete, fully commented code inside a single HTML structure.
+```
+
+---
 
 [Read Alound in Micrsoft Edge](https://training.imagenation.com.hk/edge-reader.html)  
 ![Read Aloud](images/read-aloud.png)
