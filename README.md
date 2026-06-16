@@ -195,8 +195,10 @@ generate a simulation to teach student about bubble sort for data structures and
 
 Use the following prompts in Google Gemini to generate simple games.
 
+**Prompts # 1**
+
 ```
-Act as a creative programmer. Write a complete, single-file implementation of a classic grid-based Snake game
+Act as a creative programmer. Write a classic grid-based Snake game
 Requirements:
 1. The snake moves continuously on a grid and can change directions using the arrow keys (preventing 180-degree immediate self-collision).
 2. Randomly spawn "food" pixels that grow the snake's length and increase the score when eaten.
@@ -207,10 +209,12 @@ Requirements:
 
 Here is a pre-generated Gemini Canvas app by me.
 
-[Retro Arcade Snake](https://gemini.google.com/share/e66b5b9d9e7c)  
+[Snake Game](https://gemini.google.com/share/e66b5b9d9e7c)  
 ![](./images/RetroArcadeSnake.png)
 
 ---
+
+**Prompts # 2**
 
 ```
 Act as a game developer. Create a classic 2D space shooter game inspired by Space Invaders
@@ -224,9 +228,12 @@ Requirements:
 6. Use a retro arcade aesthetic with a starry background effect (scrolling or blinking pixels).
 ```
 
-**More Prompts on Game Generation**
+[Spaceship Game](https://gemini.google.com/share/266623b04e8c)
+![](./images/spaceship.png)
 
 ---
+
+**Prompts # 3**
 
 ```
 Act as a seasoned game designer. Create an infinite side-scrolling runner game, reminiscent of classic 8-bit platformers, contained entirely within one HTML file.
@@ -242,6 +249,8 @@ Deliver the complete, fully commented code inside a single HTML structure.
 ```
 
 ---
+
+# AI Tools for Self Learning
 
 [Read Aloud in Microsoft Edge](https://training.imagenation.com.hk/edge-reader.html)  
 ![Read Aloud](images/read-aloud.png)
