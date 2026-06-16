@@ -101,7 +101,7 @@ Video generation is an exciting area of AI that allows users to create videos fr
 
 The recent best tool is **Seedance**. With Seedance, students can unleash their creativity and bring their ideas to life through videos. Without Ai, a scene of video shooting may take a team hours or days to set up, but with Seedance, it can be done in minutes.
 
-You can also try Yeri and Qwen. Both provide some free credits for users to try out the video generation features. The resultion will be low and the length is short, but it's a good start for students to explore the possibilities of AI video generation.
+You can also try Yeri and Qwen. Both provide some free credits for users to try out the video generation features. The resolution will be low and the length is short, but it's a good start for students to explore the possibilities of AI video generation.
 
 [Yeri AI](https://yeri.ai/)  
 ![](https://yeri.ai/_next/image?url=https%3A%2F%2Fimgcdn.stablediffusionweb.com%2Fimages%2Fhome-feature-showcase%2Ffeature-1-card.webp&w=3840&q=75)
@@ -205,7 +205,7 @@ Requirements:
 5. Use a nostalgic, monochromatic green-screen (Game Boy style) or cyberpunk neon theme.
 ```
 
-Here is a pre-gnerated Gemini Canvas app by me.
+Here is a pre-generated Gemini Canvas app by me.
 
 [Retro Arcade Snake](https://gemini.google.com/share/e66b5b9d9e7c)  
 ![](./images/RetroArcadeSnake.png)
@@ -243,7 +243,7 @@ Deliver the complete, fully commented code inside a single HTML structure.
 
 ---
 
-[Read Alound in Micrsoft Edge](https://training.imagenation.com.hk/edge-reader.html)  
+[Read Aloud in Microsoft Edge](https://training.imagenation.com.hk/edge-reader.html)  
 ![Read Aloud](images/read-aloud.png)
 
 Gemini Gems
@@ -259,7 +259,7 @@ As students explore the world of AI, it's important to also learn about AI ethic
 
 - [Gemini](https://gemini.google.com) - Google Gemini is a powerful, multimodal large language model developed by Google that can understand and process a wide range of information, including text, images, audio, and video.
 - [Perplexity](https://www.perplexity.ai) - AI search engine that provides concise answers with sources.
-- [Microsoft Copilot](https://copilot.microsoft.com/) - Free Microsoft AI assisant.
+- [Microsoft Copilot](https://copilot.microsoft.com/) - Free Microsoft AI assistant.
 - [Grok](https://grok.com) - AI tool for generating text and code.
 - [Qwen](https://chat.qwen.ai) - Conversational AI for various tasks
 - [DeepSeek](https://www.deepseek.com) - Conversational AI for various tasks (**NOT** a multi-modal tool)
