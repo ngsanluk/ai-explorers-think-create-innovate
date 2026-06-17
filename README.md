@@ -73,7 +73,7 @@ top camera view.
 
 ---
 
-## Visual Ingredients for Effective Images Generation
+## Visual Ingredients for Effective Image Generation
 
 To create an effective prompt for AI image generation, focus on these visual "ingredients" to ensure a high-quality, coherent result:
 
@@ -99,7 +99,7 @@ Video generation is an exciting area of AI that allows users to create videos fr
 
 ![](https://cdn.seedance2.ai/examples/seedance2/poster/2-poster.webp)
 
-The recent best tool is **Seedance**. With Seedance, students can unleash their creativity and bring their ideas to life through videos. Without Ai, a scene of video shooting may take a team hours or days to set up, but with Seedance, it can be done in minutes.
+The recent best tool is **Seedance**. With Seedance, students can unleash their creativity and bring their ideas to life through videos. Without AI, a video shooting scene may take a team hours or days to set up, but with Seedance, it can be done in minutes.
 
 You can also try Yeri and Qwen. Both provide some free credits for users to try out the video generation features. The resolution will be low and the length is short, but it's a good start for students to explore the possibilities of AI video generation.
 
@@ -171,13 +171,13 @@ Here are some professional vibe coding tools on the market
 - Github Copilot
 - Lovable
 
-Let's try using Google Gemini to generate simple web application using the following prompts.
+Let's try using Google Gemini to generate a simple web application using the following prompts.
 
 ```
 create a lucky draw simple webpage that generate a random number between 1000 and 2000.  Use black background color and orange big text for the generated number.  Clean and minimal design style.
 ```
 
-# Interactive Contents Generation
+# Interactive Content Generation
 
 In Gemini, you can choose Canvas output type and it will generate codes that can run interactively right there inside gemini chat interface or you can copy the source code to your local IDE and further develop it. You can also easily share the generated interactive content with your friends by sharing the URL of the canvas app.
 
@@ -188,7 +188,7 @@ show a simple matrix calculation using html5 animation
 ---
 
 ```
-generate a simulation to teach student about bubble sort for data structures and algorithm introduction
+generate a simulation to teach students about bubble sort for data structures and algorithm introduction
 ```
 
 # Games Generation
