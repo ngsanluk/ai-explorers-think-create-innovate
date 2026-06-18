@@ -4,6 +4,12 @@
 
 This page contains the AI resources and Generative AI prompts for students to explore the world of Artificial Intelligence (AI) and its applications in design, creativity, critical thinking, and digital innovation. Students will learn how to use AI to create images, videos, music, and interactive content. Students will also learn how to use AI tools to enhance their learning and develop skills for the future.
 
+# How We Order GenAI to Work for Us
+
+![](./images/how-gen-ai-works.png)
+
+**Multimodal GenAI** models like Google Gemini can understand/process/generate various types of information, including text, images, audio, and video. This allows users to interact with the AI in a more natural and intuitive way, using different modes of communication to achieve their desired outcomes.
+
 # Image Generation and Image Editing
 
 ## VisualGPT
@@ -256,7 +262,145 @@ Deliver the complete, fully commented code inside a single HTML structure.
 ![Read Aloud](images/read-aloud.png)
 
 Gemini Gems
-![Gemini Gems](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gems-Tips_Hero_Opt2.width-1300.jpg)
+![](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gems-Tips_Hero_Opt2.width-1300.jpg)
+
+# Mastering RICE FACT Effective Prompting
+
+RICE FACT is a useful framework to help you structure your prompts effectively when using AI tools. It stands for Role, Instruction, Context, Example, Format, Action, Constraint, and Tone. By incorporating these components into your prompts, you can guide the AI to generate more accurate and relevant responses.
+
+**Beginner Pitfall**: AI beginner users tend to use simple Instruction-only prompts, which often lead to vague and irrelevant responses. By adding more prompt components such as Role, Context, Example, Format, Action, Constraint, and Tone, you can significantly improve the quality of the AI's responses.
+
+![RICE FACT](./images/rice-fact.png)
+
+**Tips 1**: You can just click the copy button to replicate the prompt in your AI ssistant. It's OKAY to include the RICE FACT tags in your prompt.  
+**Tips 2**: In your future prompting, You DON'T actually have to specifically add these tags in your prompts. They are just there to help you better understand the prompt structure.  
+**Tips 3**: It's NOT common to include all RICE FACT components in a single prompt.
+
+**Instruction** only
+
+```
+Role        →
+Instruction → Explain what GenAI is.
+Context     →
+Example     →
+Format      →
+Action      →
+Constraint  →
+Tone        →
+```
+
+---
+
+**Instruction** + **Format**
+
+```
+Role        →
+Instruction → Explain what GenAI is.
+Context     →
+Example     →
+Format      → Use one sentence.
+Action      →
+Constraint  →
+Constraint  →
+```
+
+---
+
+**Role** + **Instruction** + **Format**
+
+```
+
+Role        → You are a secondary teacher.
+Instruction → Explain what GenAI is.
+Context     →
+Example     →
+Format      → Use one sentence.
+Action      →
+Constraint  →
+Tone        →
+
+```
+
+---
+
+**Role** + **Instruction** + **Format**
+
+```
+
+Role        → You are a kindergarten teacher.
+Instruction → Explain what GenAI is.
+Context     →
+Example     →
+Format      → Use one sentence.
+Action      →
+Constraint  →
+Tone        →
+
+```
+
+---
+
+**Role** + **Instruction** + **Context**
+
+```
+
+Role        → You are a secondary teacher.
+Instruction → Explain what GenAI is.
+Context     → The target audience are non-ICT students.
+Example     →
+Format      →
+Action      →
+Constraint  →
+Tone        →
+
+```
+
+---
+
+**Instruction** + **Format**
+
+```
+Role        →
+Instruction → Explain what GenAI is.
+Context     →
+Example     →
+Format      → Use three bullet points.
+Action      →
+Constraint  →
+Tone        →
+```
+
+---
+
+**Instruction** + **Format** + **Constraint**
+
+```
+Role        →
+Instruction → Explain what GenAI is.
+Context     →
+Example     →
+Format      → Use three bullet points.
+Action      →
+Constraint  → Each bullet points not more than 15 words.
+Tone        →
+```
+
+---
+
+**Instruction** + **Example**
+
+```
+Role        →
+Instruction → Generate 10 dummy customer records as below
+Context     →
+Example     → CustID, CustName, Email, Mobile, Address
+Format      →
+Action      →
+Constraint  →
+Tone        →
+```
+
+---
 
 # AI Ethics and Responsible AI
 
